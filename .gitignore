@@ -1,0 +1,5 @@
+#ignore the environment folder
+/env/
+
+#out the vscode folder
+/.vscode/
